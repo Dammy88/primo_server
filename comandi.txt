@@ -1,0 +1,123 @@
+    1  ls -l
+    2  node
+    3  node server
+    4  chmod man
+    5  man chmode
+    6  man chmod
+    7  help chmod
+    8  man -k chmod
+    9  info chmod
+   10  help help
+   11  help help chmod
+   12  chmod server 777
+   13  chmod 000 server
+   14  chmod 000 server.js
+   15  ls -l
+   16  node server
+   17  chmod 111 server.js
+   18  ls -l
+   19  chmod 777 server.js
+   20  ls -l
+   21  quit
+   22  exit
+   23  curl -X POST -d "test=1&foo=2" https://api.site.tld/echo
+   24  curl -X GET http://localhost:8383
+   25  curl -X HEAD http://localhost:8383
+   26  curl -I HEAD http://localhost:8383
+   27  curl -I HEAD http://localhost:8383
+   28  curl -I HEAD http://localhost:8383
+   29  curl -X GET http://localhost:8383
+   30  curl -X POST http://localhost:8383
+   31  curl -X GET http://localhost:8383
+   32  curl -X GET http://localhost:8383
+   33  curl -X GET http://localhost:8383
+   34  curl -I HEAD http://localhost:8383
+   35  curl -I HEAD http://localhost:8383
+   36  curl -X POST http://localhost:8383
+   37  npm install git
+   38  npm audit f
+   39  npm install rhc
+   40  git init
+   41  git add .
+   42  git commit -m INDICE
+   43  git config --global user.name "Dammy88"
+   44  git commit -m INDICE
+   45  git remote add origin https://github.com/Dammy88/Server_NodeJS.git
+   46  git push origin master
+   47  git commit -m "initial commit"
+   48  git config --global user.name "Dammy88"
+   49  git config --global user.email "damiano.maria.recupero@gmail.com"
+   50  git commit -m "initial commit"
+   51  git push origin master
+   52  git init
+   53  git add .
+   54  git commit -m "initial commit"
+   55  git push origin master
+   56  git remote add origin https://github.com/Dammy88/Server_NodeJS.git
+   57  git push origin master
+   58  git remote add origin https://github.com/Dammy88/Server_NodeJS.git
+   59  git push origin master
+   60  git pull origin https://github.com/Dammy88/Server_NodeJS.git
+   61  rmdir /s .git
+   62  rmdir .git
+   63  rm -rf .git
+   64  git init
+   65  git add .
+   66  git commit -m "initial commit"
+   67  git remote add origin https://github.com/Dammy88/Server_NodeJS.git
+   68  git push origin master
+   69  git config --global pull.rebase true
+   70  git config --global rebase.autoStash true
+   71  git push origin master
+   72  git push -u origin master
+   73  git push
+   74  git push --set-upstream origin master
+   75  git reset --mixed origin/master
+   76  git reset --mixed origin
+   77  git reset --mixed origin/master
+   78  git reset
+   79  git add .
+   80  git commit -m "This is a new commit for what I originally planned to be amended"
+   81  git push origin master
+   82  rm -rf .git
+   83  git config --global user.name 'Dammy88'
+   84  git config --global user.email damiano.maria.recupero@gmail.com
+   85  cd C:\Users\damia\OneDrive\Desktop\Esperimenti\primo_server
+   86  cd /Users/damia/OneDrive/Desktop/Esperimenti/primo_server
+   87  ls -l
+   88  cd OneDrive/
+   89  ls -l
+   90  cd Desktop/
+   91  ls -l
+   92  cd Esperimenti/
+   93  cd primo_server/
+   94  git init
+   95  git clone https://github.com/Dammy88/primo_server.git
+   96  git remote -v
+   97  git remote add origin https://github.com/Dammy88/primo_server.git
+   98  git remote -v
+   99  git push origin master
+  100  npm install
+  101  npm init --yes
+  102  npm install
+  103  git push origin master
+  104  git remote -v
+  105  git add *
+  106  git rm --cached primo_server
+  107  git push origin master
+  108  git remote -v
+  109  ls -l
+  110  cd primo_server/
+  111  ls -l
+  112  git push origin master
+  113  npm init --yes
+  114  ls -l
+  115  git push origin master
+  116  git add package.json
+  117  ls -l
+  118  git add hello.txt 
+  119  git commit -m "Messaggio di commit"
+  120  git push origin master
+  121  comandi.txt 
+  122  hystory >> comandi.txt
+  123  history >> comandi.txt

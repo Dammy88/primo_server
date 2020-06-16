@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Dammy88/primo_server/issues"
   },
-  "homepage": "https://github.com/Dammy88/primo_server#readme"
+  "homepage": "https://github.com/Dammy88/primo_server#readme",
+  "dependencies": {
+    "openshift": "^1.0.0",
+    "rhc": "0.0.1",
+    "rhc-services-library": "0.0.1",
+    "rhcjs": "^1.1.0"
+  }
 }
